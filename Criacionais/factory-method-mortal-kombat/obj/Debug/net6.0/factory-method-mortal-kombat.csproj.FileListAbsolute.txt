@@ -1,0 +1,15 @@
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/bin/Debug/net6.0/factory-method-mortal-kombat
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/bin/Debug/net6.0/factory-method-mortal-kombat.deps.json
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/bin/Debug/net6.0/factory-method-mortal-kombat.runtimeconfig.json
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/bin/Debug/net6.0/factory-method-mortal-kombat.dll
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/bin/Debug/net6.0/factory-method-mortal-kombat.pdb
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.csproj.AssemblyReference.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.GeneratedMSBuildEditorConfig.editorconfig
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.AssemblyInfoInputs.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.AssemblyInfo.cs
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.csproj.CoreCompileInputs.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.dll
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/refint/factory-method-mortal-kombat.dll
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.pdb
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/factory-method-mortal-kombat.genruntimeconfig.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/factory-method-mortal-kombat/obj/Debug/net6.0/ref/factory-method-mortal-kombat.dll
