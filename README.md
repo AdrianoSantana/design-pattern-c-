@@ -16,3 +16,7 @@ Alguns problemas de desenvolvimento eram comuns em vários projetos, e possuiam 
 
 Seu objetivo é criar uma "Fábrica" de classes em tempo de execução e deixar que a classe (Fábrica) decida seu tipo dinamicamente.
 (Uma classe que cria objetos de classes diferentes)
+
+## Abstract Factory
+
+O objetivo deste design pattern é agrupar diversas factories que possuam características semelhantes, utilizando uma única interface.
