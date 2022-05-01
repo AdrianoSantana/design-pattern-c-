@@ -1,0 +1,15 @@
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/bin/Debug/net6.0/singleton
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/bin/Debug/net6.0/singleton.deps.json
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/bin/Debug/net6.0/singleton.runtimeconfig.json
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/bin/Debug/net6.0/singleton.dll
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/bin/Debug/net6.0/singleton.pdb
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.csproj.AssemblyReference.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.AssemblyInfoInputs.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.AssemblyInfo.cs
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.csproj.CoreCompileInputs.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.dll
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/refint/singleton.dll
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.pdb
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/singleton.genruntimeconfig.cache
+/home/ans3/Desktop/Estudos/NETCORE/design-pattern-c-/Criacionais/singleton/obj/Debug/net6.0/ref/singleton.dll
